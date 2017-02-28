@@ -1,0 +1,29 @@
+#calculator{
+	width: 300px;
+	height:350px;
+	border: 1px solid black;
+	margin:50px auto;
+}
+
+button{
+	float: left;
+	width:75px;
+	height:70px;
+	border: none;
+	color: black;
+	background: white;
+	font-size: 25px;
+	outline: none;
+}
+button:hover{
+	background: #f7f7f7;
+	
+}
+h1{
+	margin: 0;
+	height: 60px;
+	text-align: right;
+	padding-top: 10px;
+	padding-right: 25px;
+	font-size: 50px
+}
